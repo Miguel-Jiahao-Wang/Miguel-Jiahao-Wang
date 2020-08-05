@@ -28,11 +28,13 @@
 
 ---
 
-<div style="float:left; ">
-  <img align="left" alt="Miguel-Jiahao's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Miguel-Jiahao-Wang&show_icons=true&hide_border=true" />
-</div>
-<div style="float:right">
-  <img align="right" alt="Miguel-Jiahao's Most used langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Jiahao-Wang&layout=compact" />
+<div class="container">
+  <div style="float:left; width:50%;">
+    <img align="left" alt="Miguel-Jiahao's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Miguel-Jiahao-Wang&show_icons=true&hide_border=true" />
+  </div>
+  <div style="float:right; width:50%;">
+    <img align="right" alt="Miguel-Jiahao's Most used langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Jiahao-Wang&layout=compact" />
+  </div>
 </div>
 
 [linkedin]: https://www.linkedin.com/in/jiahao-wang/

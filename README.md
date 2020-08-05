@@ -28,6 +28,11 @@
 
 ---
 
-<img align="left" alt="Miguel-Jiahao's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Miguel-Jiahao-Wang&show_icons=true&hide_border=true" />
+<div style="float:left; ">
+  <img align="left" alt="Miguel-Jiahao's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Miguel-Jiahao-Wang&show_icons=true&hide_border=true" />
+</div>
+<div style="float:right">
+  <img align="right" alt="Miguel-Jiahao's Most used langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Jiahao-Wang&layout=compact" />
+</div>
 
 [linkedin]: https://www.linkedin.com/in/jiahao-wang/

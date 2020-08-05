@@ -28,12 +28,12 @@
 
 ---
 
-<div class="container">
-  <div style="float:left; width:50%;">
+<div class="container" style="display:flex; flex-flow: wrap row">
+  <div style="width:350px">
     <img align="left" alt="Miguel-Jiahao's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Miguel-Jiahao-Wang&show_icons=true&hide_border=true" />
   </div>
-  <div style="float:right; width:50%;">
-    <img align="right" alt="Miguel-Jiahao's Most used langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Jiahao-Wang&layout=compact" />
+  <div style="">
+    <img align="left" alt="Miguel-Jiahao's Most used langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Jiahao-Wang&layout=compact&card_width=300" />
   </div>
 </div>
 

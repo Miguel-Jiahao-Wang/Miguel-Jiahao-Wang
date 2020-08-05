@@ -30,11 +30,13 @@
 
 <div class="container" style="display:flex; flex-flow: wrap row">
   <div style="max-width:500px">
-    <img align="left" alt="Miguel-Jiahao's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Miguel-Jiahao-Wang&show_icons=true&hide_border=true" />
-  </div>
-  <div style="max-width:500px">
     <img align="left" alt="Miguel-Jiahao's Most used langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Jiahao-Wang&layout=compact&card_width=300" />
   </div>
+
+  <div style="max-width:500px">
+    <img align="left" alt="Miguel-Jiahao's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Miguel-Jiahao-Wang&show_icons=true&hide_border=true" />
+  </div>
+
 </div>
 
 [linkedin]: https://www.linkedin.com/in/jiahao-wang/

@@ -29,7 +29,7 @@
 ---
 
 <div class="container" style="display:flex; flex-flow: wrap row">
-  <div style="width:350px">
+  <div style="width:250px">
     <img align="left" alt="Miguel-Jiahao's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Miguel-Jiahao-Wang&show_icons=true&hide_border=true" />
   </div>
   <div style="">

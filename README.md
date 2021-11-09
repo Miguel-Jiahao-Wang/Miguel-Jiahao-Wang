@@ -1,9 +1,7 @@
 ### Hi, I'm Jiahao - also known by Miguel
 
-## I'm a Data Scientist/Software Developer
+## I'm a Software Engineer/Data Scientist
 - 🌱 I’m currently learning everything 🤣
-- 🥅 Short/mid-term goals: extend my code stack
-- 🥅🧓🏻 Lifelong Goals: Contribute to Open Source projects
 
 
 ### Connect with me:
